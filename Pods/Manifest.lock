@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.7.2)
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+  - SkyFloatingLabelTextField (3.5.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - RxCocoa
+    - RxSwift
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  SkyFloatingLabelTextField: 4cbeece9c3aae97c6019d8fae511cb5b755874f7
+
+PODFILE CHECKSUM: f63bb158a518800b7e46278590e5bd6e5c9805a4
+
+COCOAPODS: 1.5.3
